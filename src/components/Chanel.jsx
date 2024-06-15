@@ -12,12 +12,12 @@ export default function Channel({ channel, online, game, viewers }) {
 					className="size-[30px] rounded-full"
 				/>
 				<div
-					className={clsx('flex text-[14px]', {
+					className={clsx('flex text-base', {
 						'flex-col': online === true,
 					})}>
 					<h3
 						className={clsx('font-medium hidden lg:block', {
-							'text-[14px]': online === false,
+							'text-base': online === false,
 						})}>
 						{channel}
 					</h3>
