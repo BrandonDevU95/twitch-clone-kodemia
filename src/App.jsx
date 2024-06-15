@@ -1,5 +1,6 @@
 import Browse from './components/Browse';
 import Chanels from './components/Chanels';
+import Games from './components/Games';
 import Navbar from './components/Navbar';
 
 export default function App() {
@@ -22,6 +23,7 @@ export default function App() {
 							Canales en directo
 						</a>
 					</div>
+					<Games />
 				</div>
 			</div>
 		</div>
