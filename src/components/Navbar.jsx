@@ -35,7 +35,7 @@ export default function Navbar() {
 				</a>
 			</div>
 			<div className="flex gap-3">
-				<button className="">
+				<button className="hidden sm:block">
 					<div className="relative inline-block">
 						<svg
 							className="fill-current text-white"
@@ -55,10 +55,10 @@ export default function Navbar() {
 						</span>
 					</div>
 				</button>
-				<button className="p-1 bg-[#2F2F35] px-3 rounded font-semibold text-[13px] hover:bg-[#3b3b41]">
+				<button className="hidden sm:block p-1 bg-[#2F2F35] px-3 rounded font-semibold text-[13px] hover:bg-[#3b3b41]">
 					Iniciar Sesión
 				</button>
-				<button className="p-1 bg-[#9147FF] px-3 rounded font-semibold text-[13px] hover:bg-[#793ed1]">
+				<button className="hidden sm:block p-1 bg-[#9147FF] px-3 rounded font-semibold text-[13px] hover:bg-[#793ed1]">
 					Registrarse
 				</button>
 				<button>
