@@ -82,12 +82,10 @@ Si deseas contribuir a este proyecto, por favor sigue estos pasos:
 
 ## Licencia
 
-Este proyecto está licenciado bajo la licencia ISC. Para más detalles, consulta el archivo [LICENSE](LICENSE).
+Este proyecto está licenciado bajo la licencia MIT. Para más detalles, consulta el archivo [LICENSE](LICENSE).
 
 ## Autor
 
 **BrandonDevU95**
 
 ---
-
-Este README proporciona una visión general del proyecto, las tecnologías utilizadas, los pasos para la instalación y los scripts disponibles para el desarrollo y la construcción del proyecto.
